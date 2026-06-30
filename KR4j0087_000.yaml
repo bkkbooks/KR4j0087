@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4j0087/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 詞律
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:50:16.926910'
+  source:
+    repository: kanripo
+    path: KR4j0087/KR4j0087_000.txt
+hash: sha256:7da3eb981333e3d216732cea25e8d4c6afe38a577e1495fb74dad7fcd7cc0ff3
